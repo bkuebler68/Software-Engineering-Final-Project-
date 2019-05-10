@@ -1,0 +1,2 @@
+# Software-Engineering-Final-Project-
+This tutorial is meant to explain the basics of software engineering. Such as, their job descriptions, their salaries, and education needed to become one. This tutorial is meant for anyone old enough to understand the basic concepts and fundamentals of engineering and computer science and is interested in learning more about what software engineering is and what software engineers do.
